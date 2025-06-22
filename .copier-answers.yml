@@ -1,0 +1,27 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: cd5fe1e
+_src_path: .
+author_email: itskajih@gmail.com
+author_fullname: Julian Paquerot
+cli_name: p
+copyright_holder: Julian Paquerot
+copyright_license: MIT
+copyright_year: '2025'
+coverage_threshold: 80
+default_python_version: '3.13'
+homepage_url: https://github.com/Kajiih/kjproject1
+max_python_version: '3.14'
+min_python_version: '3.12'
+module_name: kjproject
+package_name: kjproj1
+platforms:
+- macos
+- linux
+- windows
+project_description: Yeay.
+project_keywords: python,kjproject1
+project_name: kjproject1
+repo_name: kjproject1
+repo_namespace: Kajiih
+tmp_project_emoji: ''
+
